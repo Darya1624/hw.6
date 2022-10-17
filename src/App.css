@@ -1,0 +1,18 @@
+.App {
+  text-align: center;
+}
+
+.pum {
+  width: 200px;
+  height: 100px;
+  background-color: darkgrey;
+}
+.pum2 {
+  width: 200px;
+  height: 100px;
+  background-color: darkgray;
+}
+.container {
+  font-size: 5rem;
+
+}
